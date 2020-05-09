@@ -13,3 +13,13 @@ nav{
     height: 100px;
     width: 100%;
 }
+#hero{
+    display: flex;
+    height: 300px;
+    width: 100%;
+    background: blue;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
